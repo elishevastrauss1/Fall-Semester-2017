@@ -1,6 +1,6 @@
 package homeworks;
 
-public class Homework7 {
+public class Matrixes {
 
 	public static final int SIZE=3;
 	public static void main(String[] args) {
